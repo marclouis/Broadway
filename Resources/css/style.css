@@ -2,7 +2,7 @@ body {
   font-family: Helvetica;
   text-align: center;
   background-image:
-  url("../Resources/images/the-flatiron-building.png");
+  url("../images/the-flatiron-building.png");
 }
 
 h1 {
@@ -28,6 +28,12 @@ p {
 .nav {
   color: white;
 }
+
+.section, .section-2 {
+  background-color: white;
+}
+
+
 
 #split {
   background color: transparent;
