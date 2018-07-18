@@ -40,6 +40,10 @@ p {
   font-weight: bold;
 }
 
+#split p {
+  background-color: transparent;
+}
+
 
 footer {
   display: flex;
