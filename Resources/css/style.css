@@ -3,12 +3,14 @@ body {
   text-align: center;
   background-image:
   url("../images/the-flatiron-building.png");
+  margin: -8px;
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  padding-top: 30px;
 }
 
 h2 {
